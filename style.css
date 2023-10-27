@@ -370,13 +370,13 @@ section .title::after{
     width: 40%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 65%;
 }
 .skills-content .right .php::before{
     width: 50%;
 }
 .skills-content .right .mysql::before{
-    width: 90%;
+    width:30%;
 }
 
 /* teams section styling */
