@@ -58,7 +58,9 @@ footer {
     align-items: center;
     justify-content: space-between;
 }
-
+.social-icon {
+    color: grey;
+}
 section .title {
     position: relative;
     text-align: center;
