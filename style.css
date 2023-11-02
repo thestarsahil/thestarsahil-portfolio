@@ -452,25 +452,6 @@ section .title::after {
     transition: all 0.3s ease;
 }
 
-.ressources .serv-content .card:nth-child(1) {
-    background-image: url('1.png');
-    background-size: cover;
-    background-position: center;
-    
-  }
- 
-  
-  .ressources .serv-content .card:nth-child(2) {
-    background-image: url('js.jpg');
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .ressources .serv-content .card:nth-child(3) {
-    background-image: url('3.png');
-    background-size: cover;
-    background-position: center;
-  }
 
   .ressources .serv-content .card:hover {
     background-image: none;
